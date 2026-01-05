@@ -1,0 +1,5 @@
+{
+  "name": "Eightyard Shuttle Manager",
+  "description": "A shuttle bus schedule management system for Eightyard Academy. Parents can view schedules by day and class time, while administrators can manage student lists, routes, and class times.",
+  "requestFramePermissions": []
+}
